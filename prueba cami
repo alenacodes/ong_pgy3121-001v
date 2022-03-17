@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title>Ayuda a un peludo</title>
+</head>
+<body>
+    <center>
+    <div><h1> ONG Ayuda a un Peludo </h1>    
+        <p>Nuestra organización se encarga de dar hogar y de ayudar a cientos de animalitos
+        en peligro con el fin de que todos puedan encontrar un hogar y una familia que los ame.
+        Las mascotas son parte de nuestra familia y nos brindan amor incondicional. 
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada id neque ut laoreet. Nullam ornare sit amet leo vitae aliquet. Nulla tincidunt euismod nisl, nec accumsan odio elementum eget. Fusce ullamcorper commodo leo, sit amet scelerisque ante. Ut imperdiet non urna ac elementum. Donec consectetur quam ut mauris scelerisque, eget auctor quam feugiat. Proin cursus eleifend quam vel interdum. Suspendisse diam ipsum, ultrices vel dictum sit amet, condimentum vel lectus. Nunc non diam vitae dui finibus sodales. 
+        Duis et sollicitudin nibh. Integer a tortor a metus elementum malesuada. Nulla facilisi.    
+        </p>
+    <div><h2>Nuestros Integrantes:</h2>
+    </center>
+        <ul>
+            <li>Persona 1 - Cargo 1</li>
+            <li>Persona 2 - Cargo 2</li>
+            <li>Persona 3 - Cargo 3</li>
+            <li>Persona n - Cargo n</li>
+        </ul>
+    <center><div><h2>Nuestras Secciones de Ayuda:</h2> </center></div>   
+        <div><img src="https://www.fanaticosdelasmascotas.cl/wp-content/uploads/2020/05/portrait-of-a-dog-257540-1-1.jpg"
+            width="250" 
+            height="150"/> <a href="https://www.fanaticosdelasmascotas.cl/wp-content/uploads/2020/05/portrait-of-a-dog-257540-1-1.jpg">Perros</a> </div> 
+            <div><img src="https://estaticos.muyinteresante.es/media/cache/1000x460_thumb/uploads/images/gallery/60dd8da05bafe884f4c6c56c/gato-slide.jpg"
+                width="250" 
+                height="150"/> <a href="https://estaticos.muyinteresante.es/media/cache/1000x460_thumb/uploads/images/gallery/60dd8da05bafe884f4c6c56c/gato-slide.jpg">Gatos</a> </div>     
+    
+    </div>
+
+    
+</div>
+</body>
+</html>
