@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+<title>Ayuda a un peludo</title>
+</head>
+<body>
+    <head>
+        <title>Ayuda a un Peludo</title>
+    </head>
+    <header>
+        <div class="container"></div>
+        <p>ONG Ayuda a un Peludo</p>
+        <nav>
+            <a href="#">quienes somos</a>
+            <a href="#">mascotas</a>
+            <a href="#">nuestra vision </a>
+        </nav>
+    </header>
+    <section id="hero">
+        <h1>Adopta un Peludo</h1>
+        <button>adopta aqui !!</button>
+    </section>
+    <section id="somos-Adopta-un-peludo">
+        <div class="container">
+
+        </div>
+            <div class="img-container"></div>
+            <h2>Somos Adopta Un Peludo </h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur maxime beatae porro officia, qui repudiandae fuga obcaecati similique error itaque. Iure illo minima possimus necessitatibus aut neque odio, id at!</p>
+            
+
+        </div>    
+        
+    </section>
+
+
+    <section id="nuestras mascotas">
+        <h1>Nuestras mascotas!!</h1>
+        
+        <div class="carta">
+            <h3>Perro</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint dolorum nisi eveniet beatae consequuntur, maiores odio, atque tempora dolor ratione dolores iure tenetur numquam quis dolore ad ducimus eum esse.</p>
+
+            <button> adoptalo!!</button>
+
+            <h3>Gato</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem est quo numquam amet iure et consectetur, fuga, minima recusandae qui officiis harum laudantium magni perspiciatis ipsum itaque nam quaerat ipsa.
+            <button>adoptalo!!</button>
+            </p>
+        </div>
+
+    </section>
+
+    <section id="vision ONG">
+        <h4> Nuestra Vision</h4>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium, blanditiis adipisci voluptatum ab impedit est tempore ipsum fugit, eius iste vero, quo nulla officiis dolorem praesentium sapiente fuga harum velit?</p>
+
+
+    </section>
+</body>
+</html>
