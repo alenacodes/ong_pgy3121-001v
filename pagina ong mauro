@@ -10,9 +10,9 @@
         <div class="container"></div>
         <p>ONG Ayuda a un Peludo</p>
         <nav>
-            <a href="#">quienes somos</a>
-            <a href="#">mascotas</a>
-            <a href="#">nuestra vision </a>
+            <a href="#">Quienes somos</a>
+            <a href="#">Mascotas</a>
+            <a href="#">Nuestra vision </a>
         </nav>
     </header>
     <section id="hero">
